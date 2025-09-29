@@ -1,0 +1,13 @@
+{
+  "diagnosis": "The 12-year-old child's symptoms suggest Attention Deficit Hyperactivity Disorder (ADHD). The child may have difficulty paying attention to details, sustaining attention to tasks or activities, following through on instructions, organizing tasks and activities, and playing or engaging in leisure activities quietly. These are common symptoms of ADHD as indicated by the Vanderbilt ADHD Teacher Rating Scale. It is recommended to consult a healthcare professional for a proper diagnosis and treatment plan.",
+  "specialties": [
+    "pediatrician",
+    "neurologist",
+    "Psychiatrist",
+    "Psychologist"
+  ],
+  "pediatrician,neurologist,Psychiatrist,Psychologist@mumbai": "\u274c Error while searching: [Errno 2] No such file or directory: 'cache_doctor\\\\4e0fc3b5798ef3457d95ad54329c71e9.json'",
+  "Psychiatrist,pediatrician,neurologist,Psychologist@mumbai": "\n\u274c **Psychiatrist** \u2192 Not found\n\n\n\u274c **Pediatrician** \u2192 Not found\n\n\n\u274c **Neurologist** \u2192 Not found\n\n\n\u274c **Psychologist** \u2192 Not found\n",
+  "Psychologist,Psychiatrist,pediatrician,neurologist@mumbai": "\n\u274c **Psychologist** \u2192 Error: It looks like you are using Playwright Sync API inside the asyncio loop.\nPlease use the Async API instead.\n\n\n\u274c **Psychiatrist** \u2192 Error: It looks like you are using Playwright Sync API inside the asyncio loop.\nPlease use the Async API instead.\n\n\n\u274c **Pediatrician** \u2192 Error: It looks like you are using Playwright Sync API inside the asyncio loop.\nPlease use the Async API instead.\n\n\n\u274c **Neurologist** \u2192 Error: It looks like you are using Playwright Sync API inside the asyncio loop.\nPlease use the Async API instead.\n",
+  "Psychiatrist,neurologist,pediatrician,Psychologist@mumbai": "\n\u274c **Psychiatrist** \u2192 Error: 'coroutine' object has no attribute 'lower'\n\n\n\u274c **Neurologist** \u2192 Error: 'coroutine' object has no attribute 'lower'\n\n\n\u274c **Pediatrician** \u2192 Error: 'coroutine' object has no attribute 'lower'\n\n\n\u274c **Psychologist** \u2192 Error: 'coroutine' object has no attribute 'lower'\n"
+}
